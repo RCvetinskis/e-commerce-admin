@@ -1,5 +1,5 @@
 
-E-Commerce Admin Dashboard
+# E-Commerce Admin Dashboard
 Welcome to the E-Commerce Admin Dashboard! This project is designed to help you manage and customize your E-Commerce store efficiently. It is tightly integrated with the E-Commerce Store project, allowing you to create and modify your online store seamlessly.
 
 Getting Started
@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/e-commerce-admin.git
+git clone https://github.com/RCvetinskis/e-commerce-admin.git
 Navigate to the project directory:
 
 bash
@@ -45,10 +45,23 @@ Copy code
 npm run dev
 Visit http://localhost:3000 to access the E-Commerce Admin Dashboard.
 
-Features
+# Features
 Dashboard: View key metrics and insights about your online store.
 Store Management: Create and modify your E-Commerce store settings.
 Important Notes
 Store Connection: To connect your store, make sure to set the FRONTEND_STORE_URL and NEXT_PUBLIC_API_URL environment variables in the .env file.
 
 Stripe Webhook Secret: If your project is live, remember to update the STRIPE_WEBHOOK_SECRET environment variable with your actual Stripe webhook secret.
+
+# Live Application
+To view the live application, go to https://e-commerce-admin-r86ih4kpn-robertas-projects.vercel.app
+
+Features
+Dashboard: View key metrics and insights about your online store.
+Store Management: Create and modify your E-Commerce store settings.
+Create New Store: Easily create a new store API for your E-Commerce business.
+Add Billboard with Images: Customize your store's appearance by adding images to billboards.
+Product Management:
+Product Sizes: Manage product sizes for each item in your inventory.
+Product Colors: Assign different colors to products for a visually appealing display.
+Product Creation: Add new products to your store with detailed information.
