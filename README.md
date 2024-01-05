@@ -54,7 +54,7 @@ Store Connection: To connect your store, make sure to set the FRONTEND_STORE_URL
 Stripe Webhook Secret: If your project is live, remember to update the STRIPE_WEBHOOK_SECRET environment variable with your actual Stripe webhook secret.
 
 # Live Application
-To view the live application, go to https://e-commerce-admin-r86ih4kpn-robertas-projects.vercel.app
+To view the live application, go to https://e-commerce-admin-beryl.vercel.app
 
 Features
 Dashboard: View key metrics and insights about your online store.
